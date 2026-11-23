@@ -1,0 +1,11 @@
+# 流水线系统 依赖清单
+# 建议 Python 3.10（exp035 即基于 3.10 运行）
+PyQt5>=5.15.9
+numpy>=1.24
+scipy>=1.10
+soundfile>=0.12
+sounddevice>=0.4.6
+librosa>=0.10
+ultralytics>=8.2.0
+torch>=2.1
+PyYAML>=6.0
